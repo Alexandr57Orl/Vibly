@@ -1,0 +1,1892 @@
+[
+  {
+    "cities": [
+      {
+        "id": "moscow",
+        "name": "Москва",
+        "country": "Россия",
+        "flag": "🇷🇺",
+        "subtitle": "В своём ритме. С твоим настроением.",
+        "description": "От тихих переулков до огней большого города. Найди свою Москву — за пределами привычных маршрутов.",
+        "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=1800&q=85",
+        "imagePosition": "center 52%",
+        "tags": [
+          "Архитектура",
+          "Кофейная культура",
+          "Город, который не спит"
+        ],
+        "tip": "Исследуй центр пешком: сверни с большой улицы во двор или переулок. А для длинных расстояний заранее скачай схему метро.",
+        "phrases": [
+          {
+            "expression": "«Встретимся на Патриках»",
+            "meaning": "На Патриарших прудах — погулять, выпить кофе и посмотреть на город."
+          },
+          {
+            "expression": "«Пойдём на Китай»",
+            "meaning": "В район Китай-города: маленькие улочки, бары и старые московские дворы."
+          },
+          {
+            "expression": "«Внутри Садового»",
+            "meaning": "В центральной части города, внутри Садового кольца."
+          }
+        ],
+        "places": [
+          {
+            "id": "moscow-basil",
+            "name": "Собор Василия Блаженного",
+            "category": "sights",
+            "district": "Красная площадь",
+            "description": "Цветные купола, узкие галереи и один из самых узнаваемых силуэтов Москвы. Начни знакомство с городом отсюда.",
+            "image": "https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=900&q=85",
+            "tag": "Символ города",
+            "source": "https://shm.ru/museum/hvb/",
+            "images": [
+              "https://images.unsplash.com/photo-1513326738677-b964603b136d?auto=format&fit=crop&w=900&q=85",
+              "/images/moscow-basil-2.jpg",
+              "/images/moscow-basil-3.jpg"
+            ]
+          },
+          {
+            "id": "moscow-patriarch",
+            "name": "Патриаршие пруды",
+            "category": "walks",
+            "district": "Пресненский район",
+            "description": "Неспешный круг вокруг пруда, переулки с красивыми фасадами и разговоры на скамейке. Маленькая пауза в большом городе.",
+            "image": "/images/moscow-patriarch.jpg",
+            "tag": "Почувствовать город",
+            "source": "https://www.mos.ru/",
+            "images": [
+              "/images/moscow-patriarch.jpg",
+              "/images/moscow-patriarch-2.jpg",
+              "/images/moscow-patriarch-3.jpg"
+            ]
+          },
+          {
+            "id": "moscow-ges",
+            "name": "Дом культуры «ГЭС-2»",
+            "category": "sights",
+            "district": "Болотная набережная",
+            "description": "Искусство и архитектура в здании бывшей электростанции. Место, куда можно прийти за выставкой и новыми идеями.",
+            "image": "/images/moscow-ges.jpg",
+            "tag": "Искусство рядом",
+            "source": "https://v-a-c.org/ges2",
+            "images": [
+              "/images/moscow-ges.jpg",
+              "/images/moscow-ges-2.jpg",
+              "/images/moscow-ges-3.jpg"
+            ]
+          },
+          {
+            "id": "moscow-neskuchny",
+            "name": "Нескучный сад",
+            "category": "walks",
+            "district": "Якиманка",
+            "description": "Тенистые аллеи, старинные павильоны и дорожки у реки. Прогулка, для которой не нужен план.",
+            "image": "/images/moscow-neskuchny.jpg",
+            "tag": "Тише, чем в центре",
+            "source": "https://parkgorkogo.ru/areas/neskuchny-garden/",
+            "images": [
+              "/images/moscow-neskuchny.jpg",
+              "/images/moscow-neskuchny-2.jpg",
+              "/images/moscow-neskuchny-3.jpg"
+            ]
+          },
+          {
+            "id": "moscow-food",
+            "name": "Даниловский рынок",
+            "category": "food",
+            "district": "Даниловский район",
+            "description": "Зайди за обедом и попробуй разные кухни в одном месте. Удобная остановка между прогулками.",
+            "image": "/images/moscow-food.jpg",
+            "tag": "Вкус города",
+            "source": "https://danrinok.ru/",
+            "images": [
+              "/images/moscow-food.jpg",
+              "/images/moscow-food-2.jpg",
+              "/images/moscow-food-3.jpg"
+            ]
+          },
+          {
+            "id": "moscow-metro",
+            "name": "Московский метрополитен",
+            "category": "useful",
+            "district": "По всему городу",
+            "description": "Планируй поездки по официальной схеме и обращай внимание на номер выхода. Некоторые станции сами похожи на музеи.",
+            "image": "/images/moscow-metro.jpg",
+            "tag": "Как добраться",
+            "source": "https://mosmetro.ru/",
+            "images": [
+              "/images/moscow-metro.jpg",
+              "/images/moscow-metro-2.jpg",
+              "/images/moscow-metro-3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tokyo",
+        "name": "Токио",
+        "country": "Япония",
+        "flag": "🇯🇵",
+        "subtitle": "Тысяча огней. Миллион открытий.",
+        "description": "Неон Сибуи, тишина храмов и маленькие раменные. Познакомься с городом, в котором каждый район — новый мир.",
+        "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1800&q=85",
+        "tags": [
+          "Неоновые улицы",
+          "Традиции и будущее",
+          "Гастрономия"
+        ],
+        "tip": "Сохраняй название места на японском и номер выхода со станции. На больших пересадках это помогает быстрее найти дорогу.",
+        "phrases": [
+          {
+            "expression": "«Аригато годзаймас»",
+            "meaning": "Вежливое «спасибо». Пригодится в магазине, кафе и в конце разговора."
+          },
+          {
+            "expression": "«Сумимасэн»",
+            "meaning": "«Извините» или «простите»: вежливый способ обратиться к человеку."
+          },
+          {
+            "expression": "«Ябай»",
+            "meaning": "Разговорное «ого!» или «жесть». Смысл зависит от ситуации и интонации."
+          }
+        ],
+        "places": [
+          {
+            "id": "tokyo-senso",
+            "name": "Храм Сэнсо-дзи",
+            "category": "sights",
+            "district": "Асакуса",
+            "description": "Большие фонари, храмовые ворота и торговая улица Накамисэ. Знакомство с традиционной стороной Токио.",
+            "image": "/images/tokyo-senso.jpg",
+            "tag": "Дух старого Токио",
+            "source": "https://www.senso-ji.jp/english/",
+            "images": [
+              "/images/tokyo-senso.jpg",
+              "/images/tokyo-senso-2.jpg",
+              "/images/tokyo-senso-3.jpg"
+            ]
+          },
+          {
+            "id": "tokyo-shibuya",
+            "name": "Перекрёсток Сибуя",
+            "category": "sights",
+            "district": "Сибуя",
+            "description": "Поймай момент, когда люди со всех сторон выходят на перекрёсток. Вечером район наполняется светом вывесок.",
+            "image": "/images/tokyo-shibuya.jpg",
+            "tag": "В самом ритме",
+            "source": "https://www.gotokyo.org/en/destinations/western-tokyo/shibuya/index.html",
+            "images": [
+              "/images/tokyo-shibuya.jpg",
+              "/images/tokyo-shibuya-2.jpg",
+              "/images/tokyo-shibuya-3.jpg"
+            ]
+          },
+          {
+            "id": "tokyo-ueno",
+            "name": "Парк Уэно",
+            "category": "walks",
+            "district": "Тайто",
+            "description": "Прогулочные аллеи и музеи, которым можно посвятить целый день. Оставь время просто посидеть среди деревьев.",
+            "image": "/images/tokyo-ueno.jpg",
+            "tag": "Зелёная пауза",
+            "source": "https://www.gotokyo.org/en/destinations/northern-tokyo/ueno/index.html",
+            "images": [
+              "/images/tokyo-ueno.jpg",
+              "/images/tokyo-ueno-2.jpg",
+              "/images/tokyo-ueno-3.jpg"
+            ]
+          },
+          {
+            "id": "tokyo-yanaka",
+            "name": "Янака Гиндза",
+            "category": "food",
+            "district": "Янака",
+            "description": "Небольшая торговая улица для знакомства с повседневным Токио. Заглядывай в лавки и выбирай перекус по настроению.",
+            "image": "/images/tokyo-yanaka.jpg",
+            "tag": "Местный колорит",
+            "source": "https://www.gotokyo.org/en/destinations/northern-tokyo/yanaka-and-nezu/index.html",
+            "images": [
+              "/images/tokyo-yanaka.jpg",
+              "/images/tokyo-yanaka-2.jpg",
+              "/images/tokyo-yanaka-3.jpg"
+            ]
+          },
+          {
+            "id": "tokyo-info",
+            "name": "Туристический центр Асакусы",
+            "category": "useful",
+            "district": "Асакуса",
+            "description": "Остановка, чтобы сориентироваться в районе, найти туристическую информацию и продолжить прогулку.",
+            "image": "/images/tokyo-info.jpg",
+            "tag": "Помощь в городе",
+            "source": "https://www.city.taito.lg.jp/bunka_kanko/oyakudachi/kankocenter/",
+            "images": [
+              "/images/tokyo-info.jpg",
+              "/images/tokyo-info-2.jpg",
+              "/images/tokyo-info-3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "paris",
+        "name": "Париж",
+        "country": "Франция",
+        "flag": "🇫🇷",
+        "subtitle": "Искусство жить. В каждой детали.",
+        "description": "Кофе за маленьким столиком, набережные Сены и искусство без спешки. Разреши себе немного потеряться в Париже.",
+        "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1800&q=85",
+        "tags": [
+          "Искусство",
+          "Кафе и круассаны",
+          "Красивые прогулки"
+        ],
+        "tip": "Начинай разговор с «Bonjour» — в пекарне, магазине и кафе. Простое приветствие помогает задать дружелюбный тон.",
+        "phrases": [
+          {
+            "expression": "«Салют!»",
+            "meaning": "Неформальное «привет» или «пока». Подходит для общения со знакомыми."
+          },
+          {
+            "expression": "«Сэ шуэт!»",
+            "meaning": "«Это здорово!» — разговорная фраза, когда тебе что-то нравится."
+          },
+          {
+            "expression": "«Он прэн эн вер?»",
+            "meaning": "«Выпьем по бокалу?» — On prend un verre ? Приглашение встретиться за напитком."
+          }
+        ],
+        "places": [
+          {
+            "id": "paris-eiffel",
+            "name": "Эйфелева башня",
+            "category": "sights",
+            "district": "7-й округ",
+            "description": "Знакомый силуэт, который хочется увидеть своими глазами. Прогуляйся по Марсову полю и найди свой ракурс.",
+            "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=900&q=85",
+            "tag": "Парижская классика",
+            "source": "https://www.toureiffel.paris/en",
+            "images": [
+              "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=900&q=85",
+              "/images/paris-eiffel-2.jpg",
+              "/images/paris-eiffel-3.jpg"
+            ]
+          },
+          {
+            "id": "paris-louvre",
+            "name": "Лувр",
+            "category": "sights",
+            "district": "1-й округ",
+            "description": "Искусство, к которому хочется возвращаться. Выбери несколько залов заранее, чтобы знакомство с музеем не превратилось в марафон.",
+            "image": "/images/paris-louvre.jpg",
+            "tag": "Встреча с искусством",
+            "source": "https://www.louvre.fr/en",
+            "images": [
+              "/images/paris-louvre.jpg",
+              "/images/paris-louvre-2.jpg",
+              "/images/paris-louvre-3.jpg"
+            ]
+          },
+          {
+            "id": "paris-montmartre",
+            "name": "Монмартр",
+            "category": "walks",
+            "district": "18-й округ",
+            "description": "Лестницы, небольшие площади и улочки на холме. Сворачивай с оживлённых маршрутов и исследуй район в своём темпе.",
+            "image": "/images/paris-montmartre.jpg",
+            "tag": "За красивым поворотом",
+            "source": "https://parisjetaime.com/eng/",
+            "images": [
+              "/images/paris-montmartre.jpg",
+              "/images/paris-montmartre-2.jpg",
+              "/images/paris-montmartre-3.jpg"
+            ]
+          },
+          {
+            "id": "paris-market",
+            "name": "Рынок Красных детей",
+            "category": "food",
+            "district": "Маре",
+            "description": "Marché des Enfants Rouges — место для обеденной остановки в Маре. Выбирай по аромату и оставь время на прогулку по соседним улицам.",
+            "image": "/images/paris-market.jpg",
+            "tag": "Обед по-парижски",
+            "source": "https://parisjetaime.com/eng/",
+            "images": [
+              "/images/paris-market.jpg",
+              "/images/paris-market-2.jpg",
+              "/images/paris-market-3.jpg"
+            ]
+          },
+          {
+            "id": "paris-transport",
+            "name": "Метро и транспорт RATP",
+            "category": "useful",
+            "district": "По всему городу",
+            "description": "Проверь маршрут и актуальные условия проезда у перевозчика. Название конечной станции поможет выбрать нужное направление.",
+            "image": "/images/paris-transport.jpg",
+            "tag": "Как добраться",
+            "source": "https://www.ratp.fr/en",
+            "images": [
+              "/images/paris-transport.jpg",
+              "/images/paris-transport-2.jpg",
+              "/images/paris-transport-3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rome",
+        "name": "Рим",
+        "country": "Италия",
+        "flag": "🇮🇹",
+        "subtitle": "Твой следующий город. Твои новые открытия.",
+        "description": "Античные амфитеатры, площади с фонтанами и переулки Трастевере. История здесь становится частью обычной прогулки.",
+        "image": "/images/rome-colosseum-1.jpg",
+        "tags": [
+          "Архитектура",
+          "Прогулки"
+        ],
+        "tip": "Собери маршрут по районам: исторический центр удобно исследовать пешком. Условия входа в музеи проверяй на официальных сайтах.",
+        "phrases": [
+          {
+            "expression": "Buongiorno!",
+            "meaning": "Добрый день — вежливое приветствие."
+          },
+          {
+            "expression": "Un caffè, per favore.",
+            "meaning": "Один кофе, пожалуйста."
+          }
+        ],
+        "places": [
+          {
+            "id": "rome-colosseum",
+            "name": "Колизей",
+            "category": "sights",
+            "district": "Celio",
+            "description": "Античный амфитеатр с арками и галереями. Посмотри на него с площади, а для знакомства изнутри заранее изучи варианты посещения.",
+            "image": "/images/rome-colosseum-1.jpg",
+            "images": [
+              "/images/rome-colosseum-1.jpg",
+              "/images/rome-colosseum-2.jpg",
+              "/images/rome-colosseum-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://colosseo.it/en/"
+          },
+          {
+            "id": "rome-pantheon",
+            "name": "Пантеон",
+            "category": "sights",
+            "district": "Pigna",
+            "description": "Античный храм с огромным куполом и круглым проёмом в его центре. После посещения задержись на площади Ротонды.",
+            "image": "/images/rome-pantheon-1.jpg",
+            "images": [
+              "/images/rome-pantheon-1.jpg",
+              "/images/rome-pantheon-2.jpg",
+              "/images/rome-pantheon-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://pantheon.cultura.gov.it/"
+          },
+          {
+            "id": "rome-trevi",
+            "name": "Фонтан Треви",
+            "category": "sights",
+            "district": "Trevi",
+            "description": "Монументальный фонтан среди тесных улиц центра. Рассмотри скульптуры и продолжи прогулку по соседним переулкам.",
+            "image": "/images/rome-trevi-1.jpg",
+            "images": [
+              "/images/rome-trevi-1.jpg",
+              "/images/rome-trevi-2.jpg",
+              "/images/rome-trevi-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.turismoroma.it/en/places/trevi-fountain"
+          },
+          {
+            "id": "rome-trastevere",
+            "name": "Трастевере",
+            "category": "walks",
+            "district": "Trastevere",
+            "description": "Квартал за Тибром с тёплыми фасадами, небольшими площадями и тратториями. Подходит для прогулки без строгого маршрута.",
+            "image": "/images/rome-trastevere-1.jpg",
+            "images": [
+              "/images/rome-trastevere-1.jpg",
+              "/images/rome-trastevere-2.jpg",
+              "/images/rome-trastevere-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.turismoroma.it/en"
+          },
+          {
+            "id": "rome-navona",
+            "name": "Пьяцца Навона",
+            "category": "walks",
+            "district": "Parione",
+            "description": "Вытянутая площадь с барочными фонтанами и дворцами. Отсюда удобно свернуть к небольшим улицам исторического центра.",
+            "image": "/images/rome-navona-1.jpg",
+            "images": [
+              "/images/rome-navona-1.jpg",
+              "/images/rome-navona-2.jpg",
+              "/images/rome-navona-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.turismoroma.it/en/places/piazza-navona"
+          }
+        ]
+      },
+      {
+        "id": "london",
+        "name": "Лондон",
+        "country": "Великобритания",
+        "flag": "🇬🇧",
+        "subtitle": "Твой следующий город. Твои новые открытия.",
+        "description": "Прогулки вдоль Темзы, большие музеи и кварталы с разным характером. Выбирай свой темп между парками и оживлёнными улицами.",
+        "image": "/images/london-big-ben-1.jpg",
+        "tags": [
+          "Архитектура",
+          "Прогулки"
+        ],
+        "tip": "Группируй остановки по берегам Темзы и районам. Перед поездкой проверь маршруты и способы оплаты на сайте TfL.",
+        "phrases": [
+          {
+            "expression": "Cheers!",
+            "meaning": "Спасибо — неформально, в повседневном общении."
+          },
+          {
+            "expression": "Excuse me, please.",
+            "meaning": "Извините, пожалуйста — чтобы обратиться к человеку."
+          }
+        ],
+        "places": [
+          {
+            "id": "london-big-ben",
+            "name": "Биг-Бен и Вестминстер",
+            "category": "sights",
+            "district": "Westminster",
+            "description": "Часовая башня, здание парламента и виды с Вестминстерского моста. Начни здесь прогулку вдоль Темзы.",
+            "image": "/images/london-big-ben-1.jpg",
+            "images": [
+              "/images/london-big-ben-1.jpg",
+              "/images/london-big-ben-2.jpg",
+              "/images/london-big-ben-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.parliament.uk/visiting/"
+          },
+          {
+            "id": "london-tower-bridge",
+            "name": "Тауэрский мост",
+            "category": "sights",
+            "district": "Tower Bridge",
+            "description": "Мост с двумя башнями и пешеходными галереями над рекой. Красивые виды открываются с набережных по обе стороны Темзы.",
+            "image": "/images/london-tower-bridge-1.jpg",
+            "images": [
+              "/images/london-tower-bridge-1.jpg",
+              "/images/london-tower-bridge-2.jpg",
+              "/images/london-tower-bridge-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.towerbridge.org.uk/"
+          },
+          {
+            "id": "london-british-museum",
+            "name": "Британский музей",
+            "category": "sights",
+            "district": "Bloomsbury",
+            "description": "Музей мировых культур с просторным Большим двором под стеклянной крышей. Выбери несколько залов, чтобы не спешить.",
+            "image": "/images/london-british-museum-1.jpg",
+            "images": [
+              "/images/london-british-museum-1.jpg",
+              "/images/london-british-museum-2.jpg",
+              "/images/london-british-museum-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.britishmuseum.org/"
+          },
+          {
+            "id": "london-hyde-park",
+            "name": "Гайд-парк",
+            "category": "walks",
+            "district": "Hyde Park",
+            "description": "Большой городской парк с аллеями и озером Серпентайн. Место для паузы между музеями и прогулками по центру.",
+            "image": "/images/london-hyde-park-1.jpg",
+            "images": [
+              "/images/london-hyde-park-1.jpg",
+              "/images/london-hyde-park-2.jpg",
+              "/images/london-hyde-park-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.royalparks.org.uk/visit/parks/hyde-park"
+          },
+          {
+            "id": "london-borough-market",
+            "name": "Боро-маркет",
+            "category": "food",
+            "district": "Southwark",
+            "description": "Продуктовый рынок рядом с Лондонским мостом. Загляни к прилавкам и продолжи прогулку вдоль южного берега.",
+            "image": "/images/london-borough-market-1.jpg",
+            "images": [
+              "/images/london-borough-market-1.jpg",
+              "/images/london-borough-market-2.jpg",
+              "/images/london-borough-market-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://boroughmarket.org.uk/"
+          }
+        ]
+      },
+      {
+        "id": "istanbul",
+        "name": "Стамбул",
+        "country": "Турция",
+        "flag": "🇹🇷",
+        "subtitle": "Твой следующий город. Твои новые открытия.",
+        "description": "Купола над старым городом, паромы через Босфор и шумные базары. Исследуй город по обе стороны пролива.",
+        "image": "/images/istanbul-hagia-sophia-1.jpg",
+        "tags": [
+          "Архитектура",
+          "Прогулки"
+        ],
+        "tip": "На посещение мечетей выбирай подходящую одежду и проверяй правила входа. Паромы помогают увидеть город с воды.",
+        "phrases": [
+          {
+            "expression": "Merhaba!",
+            "meaning": "Здравствуйте — универсальное приветствие."
+          },
+          {
+            "expression": "Teşekkür ederim.",
+            "meaning": "Спасибо — вежливая благодарность."
+          }
+        ],
+        "places": [
+          {
+            "id": "istanbul-hagia-sophia",
+            "name": "Айя-София",
+            "category": "sights",
+            "district": "Sultanahmet",
+            "description": "Знаменитый памятник с большим куполом в историческом центре. Перед посещением проверь актуальные правила доступа.",
+            "image": "/images/istanbul-hagia-sophia-1.jpg",
+            "images": [
+              "/images/istanbul-hagia-sophia-1.jpg",
+              "/images/istanbul-hagia-sophia-2.jpg",
+              "/images/istanbul-hagia-sophia-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://muze.gov.tr/"
+          },
+          {
+            "id": "istanbul-blue-mosque",
+            "name": "Голубая мечеть",
+            "category": "sights",
+            "district": "Sultanahmet",
+            "description": "Мечеть Султанахмет с каскадом куполов и стройными минаретами. На площади рядом удобно начать знакомство со старым городом.",
+            "image": "/images/istanbul-blue-mosque-1.jpg",
+            "images": [
+              "/images/istanbul-blue-mosque-1.jpg",
+              "/images/istanbul-blue-mosque-2.jpg",
+              "/images/istanbul-blue-mosque-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://istanbul.goturkiye.com/"
+          },
+          {
+            "id": "istanbul-galata",
+            "name": "Галатская башня",
+            "category": "sights",
+            "district": "Galata",
+            "description": "Каменная башня над крутыми улицами Галаты. Исследуй окрестные лестницы, переулки и небольшие кафе.",
+            "image": "/images/istanbul-galata-1.jpg",
+            "images": [
+              "/images/istanbul-galata-1.jpg",
+              "/images/istanbul-galata-2.jpg",
+              "/images/istanbul-galata-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://muze.gov.tr/"
+          },
+          {
+            "id": "istanbul-grand-bazaar",
+            "name": "Гранд-базар",
+            "category": "food",
+            "district": "Beyazıt",
+            "description": "Крытый базар с сетью торговых улиц. Рассмотри витрины и сделай паузу за чаем в окрестных кафе.",
+            "image": "/images/istanbul-grand-bazaar-1.jpg",
+            "images": [
+              "/images/istanbul-grand-bazaar-1.jpg",
+              "/images/istanbul-grand-bazaar-2.jpg",
+              "/images/istanbul-grand-bazaar-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://istanbul.goturkiye.com/"
+          },
+          {
+            "id": "istanbul-topkapi",
+            "name": "Дворец Топкапы",
+            "category": "sights",
+            "district": "Cankurtaran",
+            "description": "Дворцовый комплекс с дворами и видами на воду. Выдели время на архитектуру и прогулку по территории.",
+            "image": "/images/istanbul-topkapi-1.jpg",
+            "images": [
+              "/images/istanbul-topkapi-1.jpg",
+              "/images/istanbul-topkapi-2.jpg",
+              "/images/istanbul-topkapi-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.millisaraylar.gov.tr/"
+          }
+        ]
+      },
+      {
+        "id": "barcelona",
+        "name": "Барселона",
+        "country": "Испания",
+        "flag": "🇪🇸",
+        "subtitle": "Твой следующий город. Твои новые открытия.",
+        "description": "Архитектура Гауди, узкие улицы старого города и прогулки к морю. Здесь легко чередовать искусство и отдых.",
+        "image": "/images/barcelona-sagrada-1.jpg",
+        "tags": [
+          "Архитектура",
+          "Прогулки"
+        ],
+        "tip": "Популярные архитектурные памятники планируй заранее. Для неспешной прогулки оставь отдельное время на старый город.",
+        "phrases": [
+          {
+            "expression": "Bon dia!",
+            "meaning": "Добрый день на каталанском языке."
+          },
+          {
+            "expression": "Gràcies!",
+            "meaning": "Спасибо на каталанском языке."
+          }
+        ],
+        "places": [
+          {
+            "id": "barcelona-sagrada",
+            "name": "Саграда Фамилия",
+            "category": "sights",
+            "district": "Eixample",
+            "description": "Базилика Антонио Гауди с башнями и сложными скульптурными фасадами. Внутри обрати внимание на свет витражей.",
+            "image": "/images/barcelona-sagrada-1.jpg",
+            "images": [
+              "/images/barcelona-sagrada-1.jpg",
+              "/images/barcelona-sagrada-2.jpg",
+              "/images/barcelona-sagrada-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://sagradafamilia.org/en/"
+          },
+          {
+            "id": "barcelona-guell",
+            "name": "Парк Гуэль",
+            "category": "walks",
+            "district": "Gràcia",
+            "description": "Парк с мозаиками, необычными павильонами и видами на Барселону. Удобная обувь пригодится на подъёмах.",
+            "image": "/images/barcelona-guell-1.jpg",
+            "images": [
+              "/images/barcelona-guell-1.jpg",
+              "/images/barcelona-guell-2.jpg",
+              "/images/barcelona-guell-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://parkguell.barcelona/en"
+          },
+          {
+            "id": "barcelona-batllo",
+            "name": "Дом Бальо",
+            "category": "sights",
+            "district": "Passeig de Gràcia",
+            "description": "Дом Гауди с волнообразным фасадом и цветной мозаикой. Рассмотри детали с бульвара или изучи интерьеры.",
+            "image": "/images/barcelona-batllo-1.jpg",
+            "images": [
+              "/images/barcelona-batllo-1.jpg",
+              "/images/barcelona-batllo-2.jpg",
+              "/images/barcelona-batllo-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.casabatllo.es/en/"
+          },
+          {
+            "id": "barcelona-gothic",
+            "name": "Готический квартал",
+            "category": "walks",
+            "district": "Ciutat Vella",
+            "description": "Лабиринт переулков, небольших площадей и старых фасадов. Гуляй без спешки и сворачивай с самых людных улиц.",
+            "image": "/images/barcelona-gothic-1.jpg",
+            "images": [
+              "/images/barcelona-gothic-1.jpg",
+              "/images/barcelona-gothic-2.jpg",
+              "/images/barcelona-gothic-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.barcelonaturisme.com/"
+          },
+          {
+            "id": "barcelona-boqueria",
+            "name": "Рынок Бокерия",
+            "category": "food",
+            "district": "La Rambla",
+            "description": "Крытый рынок рядом с Рамблой с продуктовыми прилавками и заведениями. Подходит для остановки во время прогулки по центру.",
+            "image": "/images/barcelona-boqueria-1.jpg",
+            "images": [
+              "/images/barcelona-boqueria-1.jpg",
+              "/images/barcelona-boqueria-2.jpg",
+              "/images/barcelona-boqueria-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.boqueria.barcelona/"
+          }
+        ]
+      },
+      {
+        "id": "dubai",
+        "name": "Дубай",
+        "country": "ОАЭ",
+        "flag": "🇦🇪",
+        "subtitle": "Твой следующий город. Твои новые открытия.",
+        "description": "Высотные панорамы и старые кварталы у залива. Посмотри на город с набережной, а затем исследуй его историческую часть.",
+        "image": "/images/dubai-burj-1.jpg",
+        "tags": [
+          "Архитектура",
+          "Прогулки"
+        ],
+        "tip": "Учитывай жару и расстояния: планируй прогулки на комфортное время и проверяй транспорт между районами.",
+        "phrases": [
+          {
+            "expression": "Marhaba!",
+            "meaning": "Здравствуйте — приветствие на арабском."
+          },
+          {
+            "expression": "Shukran!",
+            "meaning": "Спасибо на арабском языке."
+          }
+        ],
+        "places": [
+          {
+            "id": "dubai-burj",
+            "name": "Бурдж-Халифа",
+            "category": "sights",
+            "district": "Downtown Dubai",
+            "description": "Небоскрёб, который определяет силуэт центра Дубая. Сравни вид снизу с панорамой со смотровых площадок.",
+            "image": "/images/dubai-burj-1.jpg",
+            "images": [
+              "/images/dubai-burj-1.jpg",
+              "/images/dubai-burj-2.jpg",
+              "/images/dubai-burj-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.burjkhalifa.ae/"
+          },
+          {
+            "id": "dubai-marina",
+            "name": "Дубай Марина",
+            "category": "walks",
+            "district": "Dubai Marina",
+            "description": "Набережная среди высотных домов и яхт. Выбери небольшой участок для прогулки вдоль воды.",
+            "image": "/images/dubai-marina-1.jpg",
+            "images": [
+              "/images/dubai-marina-1.jpg",
+              "/images/dubai-marina-2.jpg",
+              "/images/dubai-marina-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.visitdubai.com/en/"
+          },
+          {
+            "id": "dubai-al-fahidi",
+            "name": "Исторический квартал Аль-Фахиди",
+            "category": "walks",
+            "district": "Bur Dubai",
+            "description": "Узкие проходы, внутренние дворы и традиционные ветровые башни. Здесь можно увидеть другой масштаб города.",
+            "image": "/images/dubai-al-fahidi-1.jpg",
+            "images": [
+              "/images/dubai-al-fahidi-1.jpg",
+              "/images/dubai-al-fahidi-2.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.visitdubai.com/en/"
+          },
+          {
+            "id": "dubai-future",
+            "name": "Музей будущего",
+            "category": "sights",
+            "district": "Trade Centre",
+            "description": "Здание в форме кольца с арабской каллиграфией на фасаде. Посмотри на архитектуру и заранее изучи программу посещения.",
+            "image": "/images/dubai-future-1.jpg",
+            "images": [
+              "/images/dubai-future-1.jpg",
+              "/images/dubai-future-2.jpg",
+              "/images/dubai-future-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://museumofthefuture.ae/en"
+          },
+          {
+            "id": "dubai-creek",
+            "name": "Дубай-Крик",
+            "category": "walks",
+            "district": "Dubai Creek",
+            "description": "Залив между историческими районами Дейра и Бур-Дубай. Наблюдай за лодками и гуляй вдоль старых торговых кварталов.",
+            "image": "/images/dubai-creek-1.jpg",
+            "images": [
+              "/images/dubai-creek-1.jpg",
+              "/images/dubai-creek-2.jpg",
+              "/images/dubai-creek-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.visitdubai.com/en/"
+          }
+        ]
+      },
+      {
+        "id": "new-york",
+        "name": "Нью-Йорк",
+        "country": "США",
+        "flag": "🇺🇸",
+        "subtitle": "Твой следующий город. Твои новые открытия.",
+        "description": "Улицы Манхэттена, мосты и большие городские парки. Чередуй известные виды с прогулками по соседним кварталам.",
+        "image": "/images/new-york-liberty-1.jpg",
+        "tags": [
+          "Архитектура",
+          "Прогулки"
+        ],
+        "tip": "Расстояния между районами большие: объединяй близкие места в один день. Схемы и изменения движения проверяй на сайте MTA.",
+        "phrases": [
+          {
+            "expression": "To go, please.",
+            "meaning": "С собой, пожалуйста — при заказе еды или кофе."
+          },
+          {
+            "expression": "Which way is the subway?",
+            "meaning": "В какой стороне метро?"
+          }
+        ],
+        "places": [
+          {
+            "id": "new-york-liberty",
+            "name": "Статуя Свободы",
+            "category": "sights",
+            "district": "Liberty Island",
+            "description": "Знаменитая статуя на острове в нью-йоркской гавани. Маршрут и доступные варианты посещения проверяй у официального оператора.",
+            "image": "/images/new-york-liberty-1.jpg",
+            "images": [
+              "/images/new-york-liberty-1.jpg",
+              "/images/new-york-liberty-2.jpg",
+              "/images/new-york-liberty-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.nps.gov/stli/"
+          },
+          {
+            "id": "new-york-central-park",
+            "name": "Центральный парк",
+            "category": "walks",
+            "district": "Manhattan",
+            "description": "Аллеи, лужайки и водоёмы среди Манхэттена. Выбери часть парка и оставь время на остановки.",
+            "image": "/images/new-york-central-park-1.jpg",
+            "images": [
+              "/images/new-york-central-park-1.jpg",
+              "/images/new-york-central-park-2.jpg",
+              "/images/new-york-central-park-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.centralparknyc.org/"
+          },
+          {
+            "id": "new-york-brooklyn-bridge",
+            "name": "Бруклинский мост",
+            "category": "walks",
+            "district": "East River",
+            "description": "Пешеходная прогулка над Ист-Ривер с видом на Манхэттен. Продолжи маршрут по набережной со стороны Бруклина.",
+            "image": "/images/new-york-brooklyn-bridge-1.jpg",
+            "images": [
+              "/images/new-york-brooklyn-bridge-1.jpg",
+              "/images/new-york-brooklyn-bridge-2.jpg",
+              "/images/new-york-brooklyn-bridge-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml"
+          },
+          {
+            "id": "new-york-met",
+            "name": "Метрополитен-музей",
+            "category": "sights",
+            "district": "Upper East Side",
+            "description": "Большая коллекция искусства рядом с Центральным парком. Выбери интересные эпохи и не пытайся увидеть всё за один визит.",
+            "image": "/images/new-york-met-1.jpg",
+            "images": [
+              "/images/new-york-met-1.jpg",
+              "/images/new-york-met-2.jpg",
+              "/images/new-york-met-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.metmuseum.org/"
+          },
+          {
+            "id": "new-york-high-line",
+            "name": "Хай-Лайн",
+            "category": "walks",
+            "district": "Chelsea",
+            "description": "Парк на бывшей надземной железнодорожной линии. Прогуляйся среди растений и посмотри на улицы с необычного ракурса.",
+            "image": "/images/new-york-high-line-1.jpg",
+            "images": [
+              "/images/new-york-high-line-1.jpg",
+              "/images/new-york-high-line-2.jpg",
+              "/images/new-york-high-line-3.jpg"
+            ],
+            "tag": "Стоит увидеть",
+            "source": "https://www.thehighline.org/"
+          }
+        ]
+      }
+    ],
+    "photoCredits": {
+      "moscow-patriarch": {
+        "image": "/images/moscow-patriarch.jpg",
+        "author": "A.Savin",
+        "license": "FAL",
+        "licenseUrl": "http://artlibre.org/licence/lal/en",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow_05-2017_img39_Patriarshiy_Pond.jpg"
+      },
+      "moscow-ges": {
+        "image": "/images/moscow-ges.jpg",
+        "author": "Юрий Д.К.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GES-2_at_night_-_Moscow.jpg"
+      },
+      "moscow-neskuchny": {
+        "image": "/images/moscow-neskuchny.jpg",
+        "author": "Akkit",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:The_architectural_ensemble_in_honor_of_the_800th_anniversary_of_Moscow.jpg"
+      },
+      "moscow-food": {
+        "image": "/images/moscow-food.jpg",
+        "author": "Retired electrician",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Danilovsky_Market,_April_2025_07.jpg"
+      },
+      "paris-louvre": {
+        "image": "/images/paris-louvre.jpg",
+        "author": "Benh LIEU SONG (Flickr)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg"
+      },
+      "paris-montmartre": {
+        "image": "/images/paris-montmartre.jpg",
+        "author": "J.M. Schomburg",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Montmartre_jms.jpg"
+      },
+      "paris-market": {
+        "image": "/images/paris-market.jpg",
+        "author": "Popolon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paris_III-March%C3%A9_des_Enfants-Rouges.jpg"
+      },
+      "paris-transport": {
+        "image": "/images/paris-transport.jpg",
+        "author": "Ismaël 1996",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_(Paris_m%C3%A9tro)_MP_89_CA_01.jpg"
+      },
+      "moscow-metro": {
+        "image": "/images/moscow-metro.jpg",
+        "author": "Svetlov Artem",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow_metro_Komsomolskaya_2020-11_Kazansky_station_tunnel.jpg"
+      },
+      "tokyo-senso": {
+        "image": "/images/tokyo-senso.jpg",
+        "author": "JiroS.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kaminarimon_gate_of_Sensoji_temple_,_Tokyo-pref._-_panoramio.jpg"
+      },
+      "tokyo-shibuya": {
+        "image": "/images/tokyo-shibuya.jpg",
+        "author": "Benh LIEU SONG (Flickr)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg"
+      },
+      "tokyo-ueno": {
+        "image": "/images/tokyo-ueno.jpg",
+        "author": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pink_swanboat_hosting_a_real_bird_on_its_head,_on_Shinobazu_Pond,_Ueno_Park,_Tokyo.jpg"
+      },
+      "tokyo-yanaka": {
+        "image": "/images/tokyo-yanaka.jpg",
+        "author": "Christophe95",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_2.jpg"
+      },
+      "tokyo-info": {
+        "image": "/images/tokyo-info.jpg",
+        "author": "DarkNight0917",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Asakusa_Culture_Tourist_Information_Center_Night_Nov_2023.jpg"
+      },
+      "moscow-basil-2": {
+        "image": "/images/moscow-basil-2.jpg",
+        "author": "Petar Milošević",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sant_Vasily_cathedral_in_Moscow.JPG"
+      },
+      "moscow-basil-3": {
+        "image": "/images/moscow-basil-3.jpg",
+        "author": "Юрий Д.К.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow_-_2025_-_Daytime_view_of_St._Basil%27s_Cathedral_from_Vasilyevsky_Spusk.jpg"
+      },
+      "moscow-patriarch-2": {
+        "image": "/images/moscow-patriarch-2.jpg",
+        "author": "Shuvaev",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Patriarshiye_Ponds_by_night_01.jpg"
+      },
+      "moscow-patriarch-3": {
+        "image": "/images/moscow-patriarch-3.jpg",
+        "author": "Shuvaev",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Patriarshiye_Ponds_Pavilion_June_2019_01.jpg"
+      },
+      "moscow-ges-2": {
+        "image": "/images/moscow-ges-2.jpg",
+        "author": "Юрий Д.К.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GES-2_tubes_(Moscow_Power_Plant),_view_from_the_Patriarch%27s_Bridge1.jpg"
+      },
+      "moscow-ges-3": {
+        "image": "/images/moscow-ges-3.jpg",
+        "author": "Dzasohovich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:GES-2_(August_2021)-2.jpg"
+      },
+      "moscow-neskuchny-2": {
+        "image": "/images/moscow-neskuchny-2.jpg",
+        "author": "Юрий Д.К.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow_-_Neskuchny_Garden_on_a_hot_summer_day.jpg"
+      },
+      "moscow-neskuchny-3": {
+        "image": "/images/moscow-neskuchny-3.jpg",
+        "author": "Юрий Д.К.",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow_-_March_2026_-_Neskuchny_garden2.jpg"
+      },
+      "moscow-food-2": {
+        "image": "/images/moscow-food-2.jpg",
+        "author": "Retired electrician",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Danilovsky_Market,_April_2025_16.jpg"
+      },
+      "moscow-food-3": {
+        "image": "/images/moscow-food-3.jpg",
+        "author": "Retired electrician",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Moscow,_Danilovsky_Market,_April_2025_09.jpg"
+      },
+      "moscow-metro-2": {
+        "image": "/images/moscow-metro-2.jpg",
+        "author": "Mike1979 Russia",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vestibule_of_Komsomolskaya_Metro_Station_Moscow_2023-09-05_8418.jpg"
+      },
+      "moscow-metro-3": {
+        "image": "/images/moscow-metro-3.jpg",
+        "author": "Mike1979 Russia",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Vestibule_of_Komsomolskaya_Metro_Station_Moscow_2023-09-05_8487.jpg"
+      },
+      "tokyo-senso-2": {
+        "image": "/images/tokyo-senso-2.jpg",
+        "author": "Jakub Hałun",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Five-storied_Pagoda_of_Sensoji_Temple_in_Tokyo,_20240821_1616_5263.jpg"
+      },
+      "tokyo-senso-3": {
+        "image": "/images/tokyo-senso-3.jpg",
+        "author": "Jakub Hałun",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Five-storied_Pagoda_of_Sensoji_Temple_in_Tokyo,_20240824_1103_5615.jpg"
+      },
+      "tokyo-shibuya-2": {
+        "image": "/images/tokyo-shibuya-2.jpg",
+        "author": "David Kernan",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg"
+      },
+      "tokyo-shibuya-3": {
+        "image": "/images/tokyo-shibuya-3.jpg",
+        "author": "Syced",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Shibuya_scramble_crossing_during_Halloween_2023,_actually_less_crowded_than_usual,_high_police_presence_2.jpg"
+      },
+      "tokyo-ueno-2": {
+        "image": "/images/tokyo-ueno-2.jpg",
+        "author": "Basile Morin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Eurasian_tree_sparrows_feeding_from_the_hand_in_Ueno_Park,_Tokyo,_Japan.jpg"
+      },
+      "tokyo-ueno-3": {
+        "image": "/images/tokyo-ueno-3.jpg",
+        "author": "San Diego Air and Space Museum Archive",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:Ueno_Park,_Tokyo_around_1919.jpg"
+      },
+      "tokyo-yanaka-2": {
+        "image": "/images/tokyo-yanaka-2.jpg",
+        "author": "Yoshikazu TAKADA from Tokyo, Japan",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yanaka_Ginza_shopping_street_(4041690725).jpg"
+      },
+      "tokyo-yanaka-3": {
+        "image": "/images/tokyo-yanaka-3.jpg",
+        "author": "User:Kentin",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Yanaka_ginza_street.jpg"
+      },
+      "tokyo-info-2": {
+        "image": "/images/tokyo-info-2.jpg",
+        "author": "DXR",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nakamise,_Asakusa,_Tokyo_as_seen_from_the_Asakusa_Culture_Tourist_Information_Center_20190420_2.jpg"
+      },
+      "tokyo-info-3": {
+        "image": "/images/tokyo-info-3.jpg",
+        "author": "DXR",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Nakamise,_Asakusa,_Tokyo_as_seen_from_the_Asakusa_Culture_Tourist_Information_Center_20190420_3.jpg"
+      },
+      "paris-eiffel-2": {
+        "image": "/images/paris-eiffel-2.jpg",
+        "author": "Benh LIEU SONG",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg"
+      },
+      "paris-eiffel-3": {
+        "image": "/images/paris-eiffel-3.jpg",
+        "author": "Jorge Royan",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg"
+      },
+      "paris-louvre-2": {
+        "image": "/images/paris-louvre-2.jpg",
+        "author": "Benh LIEU SONG (Flickr)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Louvre_Courtyard,_Looking_West.jpg"
+      },
+      "paris-louvre-3": {
+        "image": "/images/paris-louvre-3.jpg",
+        "author": "Benh LIEU SONG",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Cour_Napol%C3%A9on_at_night_-_Louvre.jpg"
+      },
+      "paris-montmartre-2": {
+        "image": "/images/paris-montmartre-2.jpg",
+        "author": "P e z i",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sacre_Coeur_cor_Jesu-DSC_1455w.jpg"
+      },
+      "paris-montmartre-3": {
+        "image": "/images/paris-montmartre-3.jpg",
+        "author": "Terragio67",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre_-_Paris_-_GT-01_-_2024.jpg"
+      },
+      "paris-market-2": {
+        "image": "/images/paris-market-2.jpg",
+        "author": "Popolon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paris_III-March%C3%A9_des_Enfants-Rouges,_All%C3%A9e_Ouest.jpg"
+      },
+      "paris-market-3": {
+        "image": "/images/paris-market-3.jpg",
+        "author": "Popolon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paris_III-March%C3%A9_des_Enfants_rouges-Entr%C3%A9e_Nord_Est.jpg"
+      },
+      "paris-transport-2": {
+        "image": "/images/paris-transport-2.jpg",
+        "author": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paris,_Metro-Station_-M%C3%A9nilmontant-_--_2014_--_1382.jpg"
+      },
+      "paris-transport-3": {
+        "image": "/images/paris-transport-3.jpg",
+        "author": "Clicsouris",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Metro_-_Paris_-_Ligne_4_-_station_Cite.jpg"
+      },
+      "rome-colosseum-1": {
+        "image": "/images/rome-colosseum-1.jpg",
+        "author": "Wilfredor",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Colosseum_of_Rome_and_Roman_forum.jpg"
+      },
+      "rome-colosseum-2": {
+        "image": "/images/rome-colosseum-2.jpg",
+        "author": "Nicholas Hartmann",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rome_Colosseum_exterior_2.jpg"
+      },
+      "rome-colosseum-3": {
+        "image": "/images/rome-colosseum-3.jpg",
+        "author": "Nicholas Hartmann",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rome_Colosseum_exterior_panorama.jpg"
+      },
+      "rome-pantheon-1": {
+        "image": "/images/rome-pantheon-1.jpg",
+        "author": "Krzysztof Golik",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pantheon_in_Rome_(1).jpg"
+      },
+      "rome-pantheon-2": {
+        "image": "/images/rome-pantheon-2.jpg",
+        "author": "John Samuel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Exterior_01.jpg"
+      },
+      "rome-pantheon-3": {
+        "image": "/images/rome-pantheon-3.jpg",
+        "author": "John Samuel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Exterior_04.jpg"
+      },
+      "rome-trevi-1": {
+        "image": "/images/rome-trevi-1.jpg",
+        "author": "Wilfredor",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Fontaine_Trevi_-_Rome.jpg"
+      },
+      "rome-trevi-2": {
+        "image": "/images/rome-trevi-2.jpg",
+        "author": "Wilfredor",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Oceanus_(Trevi_fountain).jpg"
+      },
+      "rome-trevi-3": {
+        "image": "/images/rome-trevi-3.jpg",
+        "author": "Tomascastelazo",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fontana_di_Trevi_by_TC.jpg"
+      },
+      "rome-trastevere-1": {
+        "image": "/images/rome-trastevere-1.jpg",
+        "author": "Krzysztof Golik",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_in_Trastevere_church_in_Rome_(12).jpg"
+      },
+      "rome-trastevere-2": {
+        "image": "/images/rome-trastevere-2.jpg",
+        "author": "Krzysztof Golik",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Santa_Maria_in_Trastevere_church_in_Rome_(13).jpg"
+      },
+      "rome-trastevere-3": {
+        "image": "/images/rome-trastevere-3.jpg",
+        "author": "Livioandronico2013",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Plate_for_garbage_in_Trastevere_(Rome).jpg"
+      },
+      "rome-navona-1": {
+        "image": "/images/rome-navona-1.jpg",
+        "author": "Myrabella",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Piazza_Navona_1.jpg"
+      },
+      "rome-navona-2": {
+        "image": "/images/rome-navona-2.jpg",
+        "author": "Dietmar Rabich",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Rome_(Italy),_Piazza_Navona_--_2013_--_4418.jpg"
+      },
+      "rome-navona-3": {
+        "image": "/images/rome-navona-3.jpg",
+        "author": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copyright protection. It may only be used according to the rules mentioned here. This specifically excludes use in social media, if applicable terms of the licenses listed here are not appropriate.\n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Piazza_Navona_Gange_fontana_dei_Fiumi_Roma.jpg"
+      },
+      "london-big-ben-1": {
+        "image": "/images/london-big-ben-1.jpg",
+        "author": "Colin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunset_-_2014-10-27_17-30.jpg"
+      },
+      "london-big-ben-2": {
+        "image": "/images/london-big-ben-2.jpg",
+        "author": "Julian Herzog (Website)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Big_Ben_Elizabeth_Tower_London_2023_01.jpg"
+      },
+      "london-big-ben-3": {
+        "image": "/images/london-big-ben-3.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "source": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg"
+      },
+      "london-tower-bridge-1": {
+        "image": "/images/london-tower-bridge-1.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Dusk_Feb_2006.jpg"
+      },
+      "london-tower-bridge-2": {
+        "image": "/images/london-tower-bridge-2.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_London_Feb_2006.jpg"
+      },
+      "london-tower-bridge-3": {
+        "image": "/images/london-tower-bridge-3.jpg",
+        "author": "Colin",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tower_Bridge_from_London_City_Hall_2015.jpg"
+      },
+      "london-british-museum-1": {
+        "image": "/images/london-british-museum-1.jpg",
+        "author": "Diliff",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court,_London,_UK_-_Diliff.jpg"
+      },
+      "london-british-museum-2": {
+        "image": "/images/london-british-museum-2.jpg",
+        "author": "Andrew Dunn, http://www.andrewdunnphoto.com/",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:British_Museum_Great_Court_roof.jpg"
+      },
+      "london-british-museum-3": {
+        "image": "/images/london-british-museum-3.jpg",
+        "author": "Eric Pouhier",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:British_Museum_Dome.jpg"
+      },
+      "london-hyde-park-1": {
+        "image": "/images/london-hyde-park-1.jpg",
+        "author": "Ermell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:London_Hyde_Park_Serpentine_angler-20130715-RM-125914.jpg"
+      },
+      "london-hyde-park-2": {
+        "image": "/images/london-hyde-park-2.jpg",
+        "author": "Photograph by Mike Peel (www.mikepeel.net).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:At_Hyde_Park_2023_003.jpg"
+      },
+      "london-hyde-park-3": {
+        "image": "/images/london-hyde-park-3.jpg",
+        "author": "Photograph by Mike Peel (www.mikepeel.net).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:At_Hyde_Park_2023_001.jpg"
+      },
+      "london-borough-market-1": {
+        "image": "/images/london-borough-market-1.jpg",
+        "author": "Txllxt TxllxT",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:London_-_Borough_Market_IV.jpg"
+      },
+      "london-borough-market-2": {
+        "image": "/images/london-borough-market-2.jpg",
+        "author": "Txllxt TxllxT",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:London_-_Borough_Market_III.jpg"
+      },
+      "london-borough-market-3": {
+        "image": "/images/london-borough-market-3.jpg",
+        "author": "Txllxt TxllxT",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:London_-_Borough_Market_II.jpg"
+      },
+      "istanbul-hagia-sophia-1": {
+        "image": "/images/istanbul-hagia-sophia-1.jpg",
+        "author": "Arild Vågen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg"
+      },
+      "istanbul-hagia-sophia-2": {
+        "image": "/images/istanbul-hagia-sophia-2.jpg",
+        "author": "Alvesgaspar",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Istanbul_July_2022-2.jpg"
+      },
+      "istanbul-hagia-sophia-3": {
+        "image": "/images/istanbul-hagia-sophia-3.jpg",
+        "author": "Alexxx1979",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Istanbul_Hagia_Sophia_IMG_8615_2050.jpg"
+      },
+      "istanbul-blue-mosque-1": {
+        "image": "/images/istanbul-blue-mosque-1.jpg",
+        "author": "Moonik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg"
+      },
+      "istanbul-blue-mosque-2": {
+        "image": "/images/istanbul-blue-mosque-2.jpg",
+        "author": "Benh LIEU SONG (Flickr)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg"
+      },
+      "istanbul-blue-mosque-3": {
+        "image": "/images/istanbul-blue-mosque-3.jpg",
+        "author": "Arild Vågen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sultan_Ahmet_Mosque_February_2013.jpg"
+      },
+      "istanbul-galata-1": {
+        "image": "/images/istanbul-galata-1.jpg",
+        "author": "User:Ggia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:20101106_Galata_Tower_Istanbul_Turkey_Panorama.jpg"
+      },
+      "istanbul-galata-2": {
+        "image": "/images/istanbul-galata-2.jpg",
+        "author": "Julian Lupyan",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Ceiling_of_Galata_Tower.jpg"
+      },
+      "istanbul-galata-3": {
+        "image": "/images/istanbul-galata-3.jpg",
+        "author": "Martin Falbisoner",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Galata_Tower_January_2015.JPG"
+      },
+      "istanbul-grand-bazaar-1": {
+        "image": "/images/istanbul-grand-bazaar-1.jpg",
+        "author": "EWilson (Volunteer)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Grand_Bazaar_in_Istanbul_Turkey.jpg"
+      },
+      "istanbul-grand-bazaar-2": {
+        "image": "/images/istanbul-grand-bazaar-2.jpg",
+        "author": "Jorge Franganillo",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Istanbul_-_Grand_Bazaar_(55106527962).jpg"
+      },
+      "istanbul-grand-bazaar-3": {
+        "image": "/images/istanbul-grand-bazaar-3.jpg",
+        "author": "Jorge Franganillo",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Istanbul_-_Grand_Bazaar_(55105990794).jpg"
+      },
+      "istanbul-topkapi-1": {
+        "image": "/images/istanbul-topkapi-1.jpg",
+        "author": "Moonik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:View_from_the_Fourth_Courtyard_of_Topkap%C4%B1_Palace,_Istanbul_001.jpg"
+      },
+      "istanbul-topkapi-2": {
+        "image": "/images/istanbul-topkapi-2.jpg",
+        "author": "Moonik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Grand_Kiosk_of_Topkap%C4%B1_Palace_in_Istanbul,_Turkey_002.jpg"
+      },
+      "istanbul-topkapi-3": {
+        "image": "/images/istanbul-topkapi-3.jpg",
+        "author": "Moonik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Fourth_Courtyard_of_Topkap%C4%B1_Palace,_Istanbul,_Turkey_001.jpg"
+      },
+      "barcelona-sagrada-1": {
+        "image": "/images/barcelona-sagrada-1.jpg",
+        "author": "Didier Descouens",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Barcelona_-_Exterior_of_the_Apse_of_the_Sagrada_Fam%C3%ADlia_-_Western_exposure.jpg"
+      },
+      "barcelona-sagrada-2": {
+        "image": "/images/barcelona-sagrada-2.jpg",
+        "author": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Sagrada_Familia,_Barcelona_(P1170687).jpg"
+      },
+      "barcelona-sagrada-3": {
+        "image": "/images/barcelona-sagrada-3.jpg",
+        "author": "Reda Kerbush",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Crucifix_on_the_top_of_La_Sagrada_Fam%C3%ADlia_Barcelona.jpg"
+      },
+      "barcelona-guell-1": {
+        "image": "/images/barcelona-guell-1.jpg",
+        "author": "Julian Lupyan",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Terrace_of_Parc_G%C3%BCell,_Barcelona,_Spain.jpg"
+      },
+      "barcelona-guell-2": {
+        "image": "/images/barcelona-guell-2.jpg",
+        "author": "Julian Lupyan",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Balustrade_of_Terrace_of_Parc_G%C3%BCell,_Barcelona,_Spain.jpg"
+      },
+      "barcelona-guell-3": {
+        "image": "/images/barcelona-guell-3.jpg",
+        "author": "en:User:Burn the asylum",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Park_Guell_Terrace.JPG"
+      },
+      "barcelona-batllo-1": {
+        "image": "/images/barcelona-batllo-1.jpg",
+        "author": "José Luiz",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Casa_Batl%C3%B3_-_Barcelona_2014.jpg"
+      },
+      "barcelona-batllo-2": {
+        "image": "/images/barcelona-batllo-2.jpg",
+        "author": "Simon Burchell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Casa_Batll%C3%B3,_Barcelona_57.jpg"
+      },
+      "barcelona-batllo-3": {
+        "image": "/images/barcelona-batllo-3.jpg",
+        "author": "Daniel Kraft",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Facade.jpg"
+      },
+      "barcelona-gothic-1": {
+        "image": "/images/barcelona-gothic-1.jpg",
+        "author": "patano",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gothic_Quarter,_Barcelona_-_panoramio.jpg"
+      },
+      "barcelona-gothic-2": {
+        "image": "/images/barcelona-gothic-2.jpg",
+        "author": "Richard Mortel from Riyadh, Saudi Arabia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gothic_Quarter,_Barcelona_(3)_(31215331786).jpg"
+      },
+      "barcelona-gothic-3": {
+        "image": "/images/barcelona-gothic-3.jpg",
+        "author": "Richard Mortel from Riyadh, Saudi Arabia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Gothic_Quarter,_Barcelona_(15)_(30442722553).jpg"
+      },
+      "barcelona-boqueria-1": {
+        "image": "/images/barcelona-boqueria-1.jpg",
+        "author": "Dungodung",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:La_Boqueria.JPG"
+      },
+      "barcelona-boqueria-2": {
+        "image": "/images/barcelona-boqueria-2.jpg",
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:La_Boqueria,_Barcelona.jpg"
+      },
+      "barcelona-boqueria-3": {
+        "image": "/images/barcelona-boqueria-3.jpg",
+        "author": "Matti Blume",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Boqueria,_Barcelona_(P1170747).jpg"
+      },
+      "dubai-burj-1": {
+        "image": "/images/dubai-burj-1.jpg",
+        "author": "Laika ac",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(16260269606).jpg"
+      },
+      "dubai-burj-2": {
+        "image": "/images/dubai-burj-2.jpg",
+        "author": "Guilhem Vellut from Annecy, France",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:At_the_Top_SKY_@_Burj_Khalifa_@_Dubai_(15263425154).jpg"
+      },
+      "dubai-burj-3": {
+        "image": "/images/dubai-burj-3.jpg",
+        "author": "Paasikivi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_Dubai_(taken_from_Burj_Khalifa_)_01.jpg"
+      },
+      "dubai-marina-1": {
+        "image": "/images/dubai-marina-1.jpg",
+        "author": "Khanshahab06",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_Skyline_93.jpg"
+      },
+      "dubai-marina-2": {
+        "image": "/images/dubai-marina-2.jpg",
+        "author": "Norlando Pobre",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_Skyline_(3to4).jpg"
+      },
+      "dubai-marina-3": {
+        "image": "/images/dubai-marina-3.jpg",
+        "author": "Imre Solt",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Dubai_Marina_Skyline_on_16_April_2007.jpg"
+      },
+      "dubai-al-fahidi-1": {
+        "image": "/images/dubai-al-fahidi-1.jpg",
+        "author": "Wadimaktoob",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Wind_Tower_(Barjeel)_in_Al_Fahidi_Historical_Neighborhood,_Dubai.jpg"
+      },
+      "dubai-al-fahidi-2": {
+        "image": "/images/dubai-al-fahidi-2.jpg",
+        "author": "Jorge Láscar from Australia",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lascar_Al_Arish_(summer_house)_-_Dubai_Museum_(4608280470).jpg"
+      },
+      "dubai-future-1": {
+        "image": "/images/dubai-future-1.jpg",
+        "author": "Saaremees",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_inside-Dubai_UAE-Andres_Larin.jpg"
+      },
+      "dubai-future-2": {
+        "image": "/images/dubai-future-2.jpg",
+        "author": "Saaremees",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_Wellness-Dubai_UAE-Andres_Larin.jpg"
+      },
+      "dubai-future-3": {
+        "image": "/images/dubai-future-3.jpg",
+        "author": "Saaremees",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Museum_of_the_Future_DNA_Library-Dubai_UAE-Andres_Larin.jpg"
+      },
+      "dubai-creek-1": {
+        "image": "/images/dubai-creek-1.jpg",
+        "author": "selmaperictuzla",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Abra_at_Dubai_Creek_(_Old_Dubai_).jpg"
+      },
+      "dubai-creek-2": {
+        "image": "/images/dubai-creek-2.jpg",
+        "author": "CT Cooper",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:Dubai_Creek_from_an_abra_3.jpg"
+      },
+      "dubai-creek-3": {
+        "image": "/images/dubai-creek-3.jpg",
+        "author": "CT Cooper",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:Dubai_Creek_from_an_abra_5.jpg"
+      },
+      "new-york-liberty-1": {
+        "image": "/images/new-york-liberty-1.jpg",
+        "author": "Don Ramey Logan",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Liberty_Island_photo_Don_Ramey_Logan.jpg"
+      },
+      "new-york-liberty-2": {
+        "image": "/images/new-york-liberty-2.jpg",
+        "author": "William Warby",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_NY.jpg"
+      },
+      "new-york-liberty-3": {
+        "image": "/images/new-york-liberty-3.jpg",
+        "author": "Daniel Schwen",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+        "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_frontal_2.jpg"
+      },
+      "new-york-central-park-1": {
+        "image": "/images/new-york-central-park-1.jpg",
+        "author": "Christian David",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bethesda_Fountain_and_the_Lake,_Central_Park,_Manhattan,_New_York.jpg"
+      },
+      "new-york-central-park-2": {
+        "image": "/images/new-york-central-park-2.jpg",
+        "author": "Christian David",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Bethesda_Terrace_and_432_Park_Avenue_from_the_Lake,_Central_Park,_Manhattan,_New_York.jpg"
+      },
+      "new-york-central-park-3": {
+        "image": "/images/new-york-central-park-3.jpg",
+        "author": "Christian David",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Angel_of_the_Waters,_Bethesda_Fountain,_Central_Park,_Manhattan,_New_York.jpg"
+      },
+      "new-york-brooklyn-bridge-1": {
+        "image": "/images/new-york-brooklyn-bridge-1.jpg",
+        "author": "Andrew Choy",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_at_Night.jpg"
+      },
+      "new-york-brooklyn-bridge-2": {
+        "image": "/images/new-york-brooklyn-bridge-2.jpg",
+        "author": "Carlos Delgado",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_-_03.jpg"
+      },
+      "new-york-brooklyn-bridge-3": {
+        "image": "/images/new-york-brooklyn-bridge-3.jpg",
+        "author": "Martin St-Amant (S23678)",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pont_de_Brooklyn_de_nuit_-_Octobre_2008_edit.jpg"
+      },
+      "new-york-met-1": {
+        "image": "/images/new-york-met-1.jpg",
+        "author": "Wikimedia Commons",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Exterior_Door_from_Dr._Stephen_Thorn_House,_New_Hackensack,_New_York_MET_DP105044.jpg"
+      },
+      "new-york-met-2": {
+        "image": "/images/new-york-met-2.jpg",
+        "author": "Wikimedia Commons",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "https://commons.wikimedia.org/wiki/File:Exterior_Door_from_Dr._Stephen_Thorn_House,_New_Hackensack,_New_York_MET_97014.jpg"
+      },
+      "new-york-met-3": {
+        "image": "/images/new-york-met-3.jpg",
+        "author": "Hugo Schneider",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg"
+      },
+      "new-york-high-line-1": {
+        "image": "/images/new-york-high-line-1.jpg",
+        "author": "Photograph by Mike Peel (www.mikepeel.net).",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:High_Line,_New_York_2012_39.jpg"
+      },
+      "new-york-high-line-2": {
+        "image": "/images/new-york-high-line-2.jpg",
+        "author": "King of Hearts",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:High_Line_New_York_August_2013.jpg"
+      },
+      "new-york-high-line-3": {
+        "image": "/images/new-york-high-line-3.jpg",
+        "author": "Jakub Hałun",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:High_Line,_New_York_City,_20231001_1737_1473.jpg"
+      }
+    }
+  }
+]

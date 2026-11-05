@@ -1,0 +1,607 @@
+[
+  {
+    "place": "moscow-basil",
+    "file": "File:Sant Vasily cathedral in Moscow.JPG",
+    "image": "/images/moscow-basil-2.jpg"
+  },
+  {
+    "place": "moscow-basil",
+    "file": "File:Moscow - 2025 - Daytime view of St. Basil's Cathedral from Vasilyevsky Spusk.jpg",
+    "image": "/images/moscow-basil-3.jpg"
+  },
+  {
+    "place": "moscow-patriarch",
+    "file": "File:Patriarshiye Ponds by night 01.jpg",
+    "image": "/images/moscow-patriarch-2.jpg"
+  },
+  {
+    "place": "moscow-patriarch",
+    "file": "File:Patriarshiye Ponds Pavilion June 2019 01.jpg",
+    "image": "/images/moscow-patriarch-3.jpg"
+  },
+  {
+    "place": "moscow-ges",
+    "file": "File:GES-2 tubes (Moscow Power Plant), view from the Patriarch's Bridge1.jpg",
+    "image": "/images/moscow-ges-2.jpg"
+  },
+  {
+    "place": "moscow-ges",
+    "file": "File:GES-2 (August 2021)-2.jpg",
+    "image": "/images/moscow-ges-3.jpg"
+  },
+  {
+    "place": "moscow-neskuchny",
+    "file": "File:Moscow - Neskuchny Garden on a hot summer day.jpg",
+    "image": "/images/moscow-neskuchny-2.jpg"
+  },
+  {
+    "place": "moscow-neskuchny",
+    "file": "File:Moscow - March 2026 - Neskuchny garden2.jpg",
+    "image": "/images/moscow-neskuchny-3.jpg"
+  },
+  {
+    "place": "moscow-food",
+    "file": "File:Moscow, Danilovsky Market, April 2025 16.jpg",
+    "image": "/images/moscow-food-2.jpg"
+  },
+  {
+    "place": "moscow-food",
+    "file": "File:Moscow, Danilovsky Market, April 2025 09.jpg",
+    "image": "/images/moscow-food-3.jpg"
+  },
+  {
+    "place": "moscow-metro",
+    "file": "File:Vestibule of Komsomolskaya Metro Station Moscow 2023-09-05 8418.jpg",
+    "image": "/images/moscow-metro-2.jpg"
+  },
+  {
+    "place": "moscow-metro",
+    "file": "File:Vestibule of Komsomolskaya Metro Station Moscow 2023-09-05 8487.jpg",
+    "image": "/images/moscow-metro-3.jpg"
+  },
+  {
+    "place": "tokyo-senso",
+    "file": "File:Five-storied Pagoda of Sensoji Temple in Tokyo, 20240821 1616 5263.jpg",
+    "image": "/images/tokyo-senso-2.jpg"
+  },
+  {
+    "place": "tokyo-senso",
+    "file": "File:Five-storied Pagoda of Sensoji Temple in Tokyo, 20240824 1103 5615.jpg",
+    "image": "/images/tokyo-senso-3.jpg"
+  },
+  {
+    "place": "tokyo-shibuya",
+    "file": "File:Shibuya Crossing, Aerial.jpg",
+    "image": "/images/tokyo-shibuya-2.jpg"
+  },
+  {
+    "place": "tokyo-shibuya",
+    "file": "File:Shibuya scramble crossing during Halloween 2023, actually less crowded than usual, high police presence 2.jpg",
+    "image": "/images/tokyo-shibuya-3.jpg"
+  },
+  {
+    "place": "tokyo-ueno",
+    "file": "File:Eurasian tree sparrows feeding from the hand in Ueno Park, Tokyo, Japan.jpg",
+    "image": "/images/tokyo-ueno-2.jpg"
+  },
+  {
+    "place": "tokyo-ueno",
+    "file": "File:Ueno Park, Tokyo around 1919.jpg",
+    "image": "/images/tokyo-ueno-3.jpg"
+  },
+  {
+    "place": "tokyo-yanaka",
+    "file": "File:Yanaka Ginza shopping street (4041690725).jpg",
+    "image": "/images/tokyo-yanaka-2.jpg"
+  },
+  {
+    "place": "tokyo-yanaka",
+    "file": "File:Yanaka ginza street.jpg",
+    "image": "/images/tokyo-yanaka-3.jpg"
+  },
+  {
+    "place": "tokyo-info",
+    "file": "File:Nakamise, Asakusa, Tokyo as seen from the Asakusa Culture Tourist Information Center 20190420 2.jpg",
+    "image": "/images/tokyo-info-2.jpg"
+  },
+  {
+    "place": "tokyo-info",
+    "file": "File:Nakamise, Asakusa, Tokyo as seen from the Asakusa Culture Tourist Information Center 20190420 3.jpg",
+    "image": "/images/tokyo-info-3.jpg"
+  },
+  {
+    "place": "paris-eiffel",
+    "file": "File:Tour Eiffel Wikimedia Commons.jpg",
+    "image": "/images/paris-eiffel-2.jpg"
+  },
+  {
+    "place": "paris-eiffel",
+    "file": "File:Paris - The Eiffel Tower in spring - 2307.jpg",
+    "image": "/images/paris-eiffel-3.jpg"
+  },
+  {
+    "place": "paris-louvre",
+    "file": "File:Louvre Courtyard, Looking West.jpg",
+    "image": "/images/paris-louvre-2.jpg"
+  },
+  {
+    "place": "paris-louvre",
+    "file": "File:Cour Napoléon at night - Louvre.jpg",
+    "image": "/images/paris-louvre-3.jpg"
+  },
+  {
+    "place": "paris-montmartre",
+    "file": "File:Sacre Coeur cor Jesu-DSC 1455w.jpg",
+    "image": "/images/paris-montmartre-2.jpg"
+  },
+  {
+    "place": "paris-montmartre",
+    "file": "File:Basilique du Sacré-Cœur de Montmartre - Paris - GT-01 - 2024.jpg",
+    "image": "/images/paris-montmartre-3.jpg"
+  },
+  {
+    "place": "paris-market",
+    "file": "File:Paris III-Marché des Enfants-Rouges, Allée Ouest.jpg",
+    "image": "/images/paris-market-2.jpg"
+  },
+  {
+    "place": "paris-market",
+    "file": "File:Paris III-Marché des Enfants rouges-Entrée Nord Est.jpg",
+    "image": "/images/paris-market-3.jpg"
+  },
+  {
+    "place": "paris-transport",
+    "file": "File:Paris, Metro-Station -Ménilmontant- -- 2014 -- 1382.jpg",
+    "image": "/images/paris-transport-2.jpg"
+  },
+  {
+    "place": "paris-transport",
+    "file": "File:Metro - Paris - Ligne 4 - station Cite.jpg",
+    "image": "/images/paris-transport-3.jpg"
+  },
+  {
+    "place": "rome-colosseum",
+    "file": "File:Colosseum of Rome and Roman forum.jpg",
+    "image": "/images/rome-colosseum-1.jpg"
+  },
+  {
+    "place": "rome-colosseum",
+    "file": "File:Rome Colosseum exterior 2.jpg",
+    "image": "/images/rome-colosseum-2.jpg"
+  },
+  {
+    "place": "rome-colosseum",
+    "file": "File:Rome Colosseum exterior panorama.jpg",
+    "image": "/images/rome-colosseum-3.jpg"
+  },
+  {
+    "place": "rome-pantheon",
+    "file": "File:Pantheon in Rome (1).jpg",
+    "image": "/images/rome-pantheon-1.jpg"
+  },
+  {
+    "place": "rome-pantheon",
+    "file": "File:Pantheon (Rome) - Exterior 01.jpg",
+    "image": "/images/rome-pantheon-2.jpg"
+  },
+  {
+    "place": "rome-pantheon",
+    "file": "File:Pantheon (Rome) - Exterior 04.jpg",
+    "image": "/images/rome-pantheon-3.jpg"
+  },
+  {
+    "place": "rome-trevi",
+    "file": "File:Fontaine Trevi - Rome.jpg",
+    "image": "/images/rome-trevi-1.jpg"
+  },
+  {
+    "place": "rome-trevi",
+    "file": "File:Oceanus (Trevi fountain).jpg",
+    "image": "/images/rome-trevi-2.jpg"
+  },
+  {
+    "place": "rome-trevi",
+    "file": "File:Fontana di Trevi by TC.jpg",
+    "image": "/images/rome-trevi-3.jpg"
+  },
+  {
+    "place": "rome-trastevere",
+    "file": "File:Santa Maria in Trastevere church in Rome (12).jpg",
+    "image": "/images/rome-trastevere-1.jpg"
+  },
+  {
+    "place": "rome-trastevere",
+    "file": "File:Santa Maria in Trastevere church in Rome (13).jpg",
+    "image": "/images/rome-trastevere-2.jpg"
+  },
+  {
+    "place": "rome-trastevere",
+    "file": "File:Plate for garbage in Trastevere (Rome).jpg",
+    "image": "/images/rome-trastevere-3.jpg"
+  },
+  {
+    "place": "rome-navona",
+    "file": "File:Piazza Navona 1.jpg",
+    "image": "/images/rome-navona-1.jpg"
+  },
+  {
+    "place": "rome-navona",
+    "file": "File:Rome (Italy), Piazza Navona -- 2013 -- 4418.jpg",
+    "image": "/images/rome-navona-2.jpg"
+  },
+  {
+    "place": "rome-navona",
+    "file": "File:Piazza Navona Gange fontana dei Fiumi Roma.jpg",
+    "image": "/images/rome-navona-3.jpg"
+  },
+  {
+    "place": "london-big-ben",
+    "file": "File:Big Ben at sunset - 2014-10-27 17-30.jpg",
+    "image": "/images/london-big-ben-1.jpg"
+  },
+  {
+    "place": "london-big-ben",
+    "file": "File:Big Ben Elizabeth Tower London 2023 01.jpg",
+    "image": "/images/london-big-ben-2.jpg"
+  },
+  {
+    "place": "london-big-ben",
+    "file": "File:Palace of Westminster, London - Feb 2007.jpg",
+    "image": "/images/london-big-ben-3.jpg"
+  },
+  {
+    "place": "london-tower-bridge",
+    "file": "File:Tower Bridge London Dusk Feb 2006.jpg",
+    "image": "/images/london-tower-bridge-1.jpg"
+  },
+  {
+    "place": "london-tower-bridge",
+    "file": "File:Tower Bridge London Feb 2006.jpg",
+    "image": "/images/london-tower-bridge-2.jpg"
+  },
+  {
+    "place": "london-tower-bridge",
+    "file": "File:Tower Bridge from London City Hall 2015.jpg",
+    "image": "/images/london-tower-bridge-3.jpg"
+  },
+  {
+    "place": "london-british-museum",
+    "file": "File:British Museum Great Court, London, UK - Diliff.jpg",
+    "image": "/images/london-british-museum-1.jpg"
+  },
+  {
+    "place": "london-british-museum",
+    "file": "File:British Museum Great Court roof.jpg",
+    "image": "/images/london-british-museum-2.jpg"
+  },
+  {
+    "place": "london-british-museum",
+    "file": "File:British Museum Dome.jpg",
+    "image": "/images/london-british-museum-3.jpg"
+  },
+  {
+    "place": "london-hyde-park",
+    "file": "File:London Hyde Park Serpentine angler-20130715-RM-125914.jpg",
+    "image": "/images/london-hyde-park-1.jpg"
+  },
+  {
+    "place": "london-hyde-park",
+    "file": "File:At Hyde Park 2023 003.jpg",
+    "image": "/images/london-hyde-park-2.jpg"
+  },
+  {
+    "place": "london-hyde-park",
+    "file": "File:At Hyde Park 2023 001.jpg",
+    "image": "/images/london-hyde-park-3.jpg"
+  },
+  {
+    "place": "london-borough-market",
+    "file": "File:London - Borough Market IV.jpg",
+    "image": "/images/london-borough-market-1.jpg"
+  },
+  {
+    "place": "london-borough-market",
+    "file": "File:London - Borough Market III.jpg",
+    "image": "/images/london-borough-market-2.jpg"
+  },
+  {
+    "place": "london-borough-market",
+    "file": "File:London - Borough Market II.jpg",
+    "image": "/images/london-borough-market-3.jpg"
+  },
+  {
+    "place": "istanbul-hagia-sophia",
+    "file": "File:Hagia Sophia Mars 2013.jpg",
+    "image": "/images/istanbul-hagia-sophia-1.jpg"
+  },
+  {
+    "place": "istanbul-hagia-sophia",
+    "file": "File:Hagia Sophia Istanbul July 2022-2.jpg",
+    "image": "/images/istanbul-hagia-sophia-2.jpg"
+  },
+  {
+    "place": "istanbul-hagia-sophia",
+    "file": "File:Istanbul Hagia Sophia IMG 8615 2050.jpg",
+    "image": "/images/istanbul-hagia-sophia-3.jpg"
+  },
+  {
+    "place": "istanbul-blue-mosque",
+    "file": "File:Exterior of Sultan Ahmed I Mosque in Istanbul, Turkey 002.jpg",
+    "image": "/images/istanbul-blue-mosque-1.jpg"
+  },
+  {
+    "place": "istanbul-blue-mosque",
+    "file": "File:Blue Mosque Courtyard Dusk Wikimedia Commons.jpg",
+    "image": "/images/istanbul-blue-mosque-2.jpg"
+  },
+  {
+    "place": "istanbul-blue-mosque",
+    "file": "File:Sultan Ahmet Mosque February 2013.jpg",
+    "image": "/images/istanbul-blue-mosque-3.jpg"
+  },
+  {
+    "place": "istanbul-galata",
+    "file": "File:20101106 Galata Tower Istanbul Turkey Panorama.jpg",
+    "image": "/images/istanbul-galata-1.jpg"
+  },
+  {
+    "place": "istanbul-galata",
+    "file": "File:Ceiling of Galata Tower.jpg",
+    "image": "/images/istanbul-galata-2.jpg"
+  },
+  {
+    "place": "istanbul-galata",
+    "file": "File:Galata Tower January 2015.JPG",
+    "image": "/images/istanbul-galata-3.jpg"
+  },
+  {
+    "place": "istanbul-grand-bazaar",
+    "file": "File:Grand Bazaar in Istanbul Turkey.jpg",
+    "image": "/images/istanbul-grand-bazaar-1.jpg"
+  },
+  {
+    "place": "istanbul-grand-bazaar",
+    "file": "File:Istanbul - Grand Bazaar (55106527962).jpg",
+    "image": "/images/istanbul-grand-bazaar-2.jpg"
+  },
+  {
+    "place": "istanbul-grand-bazaar",
+    "file": "File:Istanbul - Grand Bazaar (55105990794).jpg",
+    "image": "/images/istanbul-grand-bazaar-3.jpg"
+  },
+  {
+    "place": "istanbul-topkapi",
+    "file": "File:View from the Fourth Courtyard of Topkapı Palace, Istanbul 001.jpg",
+    "image": "/images/istanbul-topkapi-1.jpg"
+  },
+  {
+    "place": "istanbul-topkapi",
+    "file": "File:Grand Kiosk of Topkapı Palace in Istanbul, Turkey 002.jpg",
+    "image": "/images/istanbul-topkapi-2.jpg"
+  },
+  {
+    "place": "istanbul-topkapi",
+    "file": "File:Fourth Courtyard of Topkapı Palace, Istanbul, Turkey 001.jpg",
+    "image": "/images/istanbul-topkapi-3.jpg"
+  },
+  {
+    "place": "barcelona-sagrada",
+    "file": "File:Barcelona - Exterior of the Apse of the Sagrada Família - Western exposure.jpg",
+    "image": "/images/barcelona-sagrada-1.jpg"
+  },
+  {
+    "place": "barcelona-sagrada",
+    "file": "File:Sagrada Familia, Barcelona (P1170687).jpg",
+    "image": "/images/barcelona-sagrada-2.jpg"
+  },
+  {
+    "place": "barcelona-sagrada",
+    "file": "File:Crucifix on the top of La Sagrada Família Barcelona.jpg",
+    "image": "/images/barcelona-sagrada-3.jpg"
+  },
+  {
+    "place": "barcelona-guell",
+    "file": "File:Terrace of Parc Güell, Barcelona, Spain.jpg",
+    "image": "/images/barcelona-guell-1.jpg"
+  },
+  {
+    "place": "barcelona-guell",
+    "file": "File:Balustrade of Terrace of Parc Güell, Barcelona, Spain.jpg",
+    "image": "/images/barcelona-guell-2.jpg"
+  },
+  {
+    "place": "barcelona-guell",
+    "file": "File:Park Guell Terrace.JPG",
+    "image": "/images/barcelona-guell-3.jpg"
+  },
+  {
+    "place": "barcelona-batllo",
+    "file": "File:Exterior of Casa Batló - Barcelona 2014.jpg",
+    "image": "/images/barcelona-batllo-1.jpg"
+  },
+  {
+    "place": "barcelona-batllo",
+    "file": "File:Casa Batlló, Barcelona 57.jpg",
+    "image": "/images/barcelona-batllo-2.jpg"
+  },
+  {
+    "place": "barcelona-batllo",
+    "file": "File:Casa Batllo Facade.jpg",
+    "image": "/images/barcelona-batllo-3.jpg"
+  },
+  {
+    "place": "barcelona-boqueria",
+    "file": "File:La Boqueria.JPG",
+    "image": "/images/barcelona-boqueria-1.jpg"
+  },
+  {
+    "place": "barcelona-boqueria",
+    "file": "File:La Boqueria, Barcelona.jpg",
+    "image": "/images/barcelona-boqueria-2.jpg"
+  },
+  {
+    "place": "barcelona-boqueria",
+    "file": "File:Boqueria, Barcelona (P1170747).jpg",
+    "image": "/images/barcelona-boqueria-3.jpg"
+  },
+  {
+    "place": "dubai-burj",
+    "file": "File:Burj Khalifa (16260269606).jpg",
+    "image": "/images/dubai-burj-1.jpg"
+  },
+  {
+    "place": "dubai-burj",
+    "file": "File:At the Top SKY @ Burj Khalifa @ Dubai (15263425154).jpg",
+    "image": "/images/dubai-burj-2.jpg"
+  },
+  {
+    "place": "dubai-burj",
+    "file": "File:Aerial photographs of Dubai (taken from Burj Khalifa ) 01.jpg",
+    "image": "/images/dubai-burj-3.jpg"
+  },
+  {
+    "place": "dubai-marina",
+    "file": "File:Dubai Marina Skyline 93.jpg",
+    "image": "/images/dubai-marina-1.jpg"
+  },
+  {
+    "place": "dubai-marina",
+    "file": "File:Dubai Marina Skyline (3to4).jpg",
+    "image": "/images/dubai-marina-2.jpg"
+  },
+  {
+    "place": "dubai-marina",
+    "file": "File:Dubai Marina Skyline on 16 April 2007.jpg",
+    "image": "/images/dubai-marina-3.jpg"
+  },
+  {
+    "place": "dubai-al-fahidi",
+    "file": "File:Wind Tower (Barjeel) in Al Fahidi Historical Neighborhood, Dubai.jpg",
+    "image": "/images/dubai-al-fahidi-1.jpg"
+  },
+  {
+    "place": "dubai-al-fahidi",
+    "file": "File:Lascar Al Arish (summer house) - Dubai Museum (4608280470).jpg",
+    "image": "/images/dubai-al-fahidi-2.jpg"
+  },
+  {
+    "place": "dubai-future",
+    "file": "File:Museum of the Future inside-Dubai UAE-Andres Larin.jpg",
+    "image": "/images/dubai-future-1.jpg"
+  },
+  {
+    "place": "dubai-future",
+    "file": "File:Museum of the Future Wellness-Dubai UAE-Andres Larin.jpg",
+    "image": "/images/dubai-future-2.jpg"
+  },
+  {
+    "place": "dubai-future",
+    "file": "File:Museum of the Future DNA Library-Dubai UAE-Andres Larin.jpg",
+    "image": "/images/dubai-future-3.jpg"
+  },
+  {
+    "place": "dubai-creek",
+    "file": "File:Abra at Dubai Creek ( Old Dubai ).jpg",
+    "image": "/images/dubai-creek-1.jpg"
+  },
+  {
+    "place": "dubai-creek",
+    "file": "File:Dubai Creek from an abra 3.jpg",
+    "image": "/images/dubai-creek-2.jpg"
+  },
+  {
+    "place": "dubai-creek",
+    "file": "File:Dubai Creek from an abra 5.jpg",
+    "image": "/images/dubai-creek-3.jpg"
+  },
+  {
+    "place": "new-york-liberty",
+    "file": "File:Liberty Island photo Don Ramey Logan.jpg",
+    "image": "/images/new-york-liberty-1.jpg"
+  },
+  {
+    "place": "new-york-liberty",
+    "file": "File:Statue of Liberty, NY.jpg",
+    "image": "/images/new-york-liberty-2.jpg"
+  },
+  {
+    "place": "new-york-liberty",
+    "file": "File:Statue of Liberty frontal 2.jpg",
+    "image": "/images/new-york-liberty-3.jpg"
+  },
+  {
+    "place": "new-york-central-park",
+    "file": "File:Bethesda Fountain and the Lake, Central Park, Manhattan, New York.jpg",
+    "image": "/images/new-york-central-park-1.jpg"
+  },
+  {
+    "place": "new-york-central-park",
+    "file": "File:Bethesda Terrace and 432 Park Avenue from the Lake, Central Park, Manhattan, New York.jpg",
+    "image": "/images/new-york-central-park-2.jpg"
+  },
+  {
+    "place": "new-york-central-park",
+    "file": "File:Angel of the Waters, Bethesda Fountain, Central Park, Manhattan, New York.jpg",
+    "image": "/images/new-york-central-park-3.jpg"
+  },
+  {
+    "place": "new-york-brooklyn-bridge",
+    "file": "File:Brooklyn Bridge at Night.jpg",
+    "image": "/images/new-york-brooklyn-bridge-1.jpg"
+  },
+  {
+    "place": "new-york-brooklyn-bridge",
+    "file": "File:Brooklyn Bridge - 03.jpg",
+    "image": "/images/new-york-brooklyn-bridge-2.jpg"
+  },
+  {
+    "place": "new-york-brooklyn-bridge",
+    "file": "File:Pont de Brooklyn de nuit - Octobre 2008 edit.jpg",
+    "image": "/images/new-york-brooklyn-bridge-3.jpg"
+  },
+  {
+    "place": "new-york-met",
+    "file": "File:Exterior Door from Dr. Stephen Thorn House, New Hackensack, New York MET DP105044.jpg",
+    "image": "/images/new-york-met-1.jpg"
+  },
+  {
+    "place": "new-york-met",
+    "file": "File:Exterior Door from Dr. Stephen Thorn House, New Hackensack, New York MET 97014.jpg",
+    "image": "/images/new-york-met-2.jpg"
+  },
+  {
+    "place": "new-york-met",
+    "file": "File:Metropolitan Museum of Art (The Met) - Central Park, NYC.jpg",
+    "image": "/images/new-york-met-3.jpg"
+  },
+  {
+    "place": "new-york-high-line",
+    "file": "File:High Line, New York 2012 39.jpg",
+    "image": "/images/new-york-high-line-1.jpg"
+  },
+  {
+    "place": "new-york-high-line",
+    "file": "File:High Line New York August 2013.jpg",
+    "image": "/images/new-york-high-line-2.jpg"
+  },
+  {
+    "place": "new-york-high-line",
+    "file": "File:High Line, New York City, 20231001 1737 1473.jpg",
+    "image": "/images/new-york-high-line-3.jpg"
+  },
+  {
+    "place": "barcelona-gothic",
+    "file": "File:Gothic Quarter, Barcelona - panoramio.jpg",
+    "image": "/images/barcelona-gothic-1.jpg"
+  },
+  {
+    "place": "barcelona-gothic",
+    "file": "File:Gothic Quarter, Barcelona (3) (31215331786).jpg",
+    "image": "/images/barcelona-gothic-2.jpg"
+  },
+  {
+    "place": "barcelona-gothic",
+    "file": "File:Gothic Quarter, Barcelona (15) (30442722553).jpg",
+    "image": "/images/barcelona-gothic-3.jpg"
+  }
+]
